@@ -1,8 +1,12 @@
 # 📰 Garry's Mod Enhanced Meth Lab — Reuploaded
 
+### 📂 WHY ARCHIVE
+- I won't update it.
+- If you wanna PR something, tell me on other socials, i'm OK to reopen it.
+
 ### ⭐ WHY REUPLOAD?
 - Since original devlopper (EnnX49) is actually inactive and don't work on his Garry's Mod Addons, i decided to reupload for two reasons. The addons worked well a year ago, and of course it's some of the bests addons I ever used, simple and old-fashionned. Nothing else matters.
-- For legal inquiries like DMCA takedown or other actions, open an issue, or contact me on Discord @pokameni, but I want to be clear : this should be either free either possible to buy with a PSA "NO SUPPORT WILL BE PROVIDED".
+- For legal inquiries like DMCA takedown or other actions, open an issue, or contact me on Discord @alzhetv, but I want to be clear : this should be either free either possible to buy with a PSA "NO SUPPORT WILL BE PROVIDED".
 - The actual addon isn't available to [buy on Garry's Mod Store](https://www.gmodstore.com/market/view/enhanced-meth-lab) (not time to manage).
 
 ### 📃 You will need :
@@ -15,7 +19,7 @@
 - Translate it, edit variables, and play.
 
 ### 📹 Previews
-- 🇫🇷 https://youtu.be/GQ8o7pYSBmg?t=420 (côté développeur)
-- 🇫🇷 https://youtu.be/axuDhU7_12U (côté utilisateur) 
+- 🇫🇷 https://youtu.be/GQ8o7pYSBmg?t=420 (devlopper side)
+- 🇫🇷 https://youtu.be/axuDhU7_12U (end-user side) 
 
-### ©️ Original work by EnnX49 | ©️ Reuploaded by pokameni
+### ©️ Original work by EnnX49 | ©️ Reuploaded by myself.
